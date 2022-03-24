@@ -1,8 +1,8 @@
 Game Server for Windows(1715)
 ===============
-Current latest version: [220324432](https://github.com/amusegame/v1715/releases/download/220324432/v1715-220324432.github.7z)
+Current latest version: [220324432](https://github.com/amusegame/v1700/releases/download/220324432/v1700-220324432.github.7z)
 
-Release Date£º2022-03-24
+Release Date: 2022-03-24
 
 Release Notes
 -----------------------------------
