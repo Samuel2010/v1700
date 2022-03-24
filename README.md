@@ -1,4 +1,4 @@
-Game Server for Windows(1715)
+Game Server for Windows(1700)
 ===============
 Current latest version: [220324432](https://github.com/amusegame/v1700/releases/download/220324432/v1700-220324432.github.7z)
 
